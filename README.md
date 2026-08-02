@@ -30,13 +30,13 @@ The dashboard is fully interactive and enables users to filter vendors dynamical
 
 ## 📍 Overview Dashboard
 
-![Overview Dashboard](dashboard_page1.png)
+![Overview Dashboard](dashboard_page1.png.png).
 
 ---
 
 ## 📍 Detailed Analysis Dashboard
 
-![Detailed Analysis](dashboard_page2.png)
+![Detailed Analysis](dashboard_page2.png.png)
 
 ---
 
